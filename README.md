@@ -2,11 +2,17 @@
 
 ## Overview
 
-This project demonstrates fundamental SQL skills using an imaginary restaurant's sales data. It consists of two main components:
-1. **Data Creation**: A script to create and populate tables with fake restaurant sales data.
-2. **Data Analysis**: A script to query the data for insights into menu performance, order trends, and customer preferences.
+## Overview
 
-The project is ideal for showcasing SQL table creation, data insertion, and querying skills.
+This project was part of a guided exercise from Maven Analytics, where I worked with an imaginary restaurant sales dataset. The exercise provided the dataset and database schema, and I focused on solving business-related questions by writing SQL queries.
+ 
+
+The project helped me practice:
+1. **Data Analysis**: Writing SQL queries to gain insights into menu performance, order trends, and customer preferences.
+2. **Problem Solving**: Answering real-world questions through advanced SQL techniques like joins, aggregations, and subqueries.
+
+By completing this project, I gained hands-on experience with SQL and strengthened my ability to analyze data effectively.
+
 
 
 
@@ -33,10 +39,11 @@ The project is ideal for showcasing SQL table creation, data insertion, and quer
 
 ## Skills Demonstrated
 
-- **Database Design**: Creating and populating tables.
-- **Data Manipulation**: Writing and running SQL queries to extract insights.
-- **Joins and Aggregations**: Combining data from multiple tables and performing aggregations.
-- **Advanced Querying**: Using subqueries, filters, and grouping for deeper analysis.
+- **Database Design**: I worked on creating and populating tables with structured data.
+- **Data Manipulation**: I wrote and executed SQL queries to extract meaningful insights from the data.
+- **Joins and Aggregations**: I combined data from multiple tables and used aggregation techniques to analyze trends.
+- **Advanced Querying**: I applied techniques like subqueries, filters, and grouping to answer complex questions.
+
 
 
 ## Questions Answered
