@@ -37,3 +37,26 @@ The project is ideal for showcasing SQL table creation, data insertion, and quer
 - **Data Manipulation**: Writing and running SQL queries to extract insights.
 - **Joins and Aggregations**: Combining data from multiple tables and performing aggregations.
 - **Advanced Querying**: Using subqueries, filters, and grouping for deeper analysis.
+
+
+## Questions Answered
+
+### Menu Analysis
+- How many items are on the menu?
+- What are the least and most expensive items on the menu?
+- How many Italian dishes are on the menu? What are the least and most expensive Italian dishes?
+- How many dishes are in each category?
+- What is the average price of dishes in each category?
+
+### Order Trends
+- What is the date range of the orders in the dataset?
+- How many orders and items were made within this date range?
+- Which orders had the most number of items?
+- How many orders had more than 12 items?
+
+### Combined Analysis (Menu + Orders)
+- What were the least and most ordered items? What categories were they in?
+- What were the top 5 orders that spent the most money?
+- What specific items were purchased in the highest spending order?
+- Which categories were most popular in the top 5 highest spending orders?
+
