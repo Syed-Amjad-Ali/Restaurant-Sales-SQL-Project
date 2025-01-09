@@ -1,5 +1,6 @@
-# Restaurant-Sales-SQL-Project          <img src="./restaurant.png" alt="Maven Analytics Badge" width="200" />
+# Restaurant-Sales-SQL-Project          
 
+<img src="./restaurant.png" alt="Maven Analytics Badge" width="200" />
 
 
 ## Overview
